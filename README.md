@@ -32,14 +32,12 @@
     · 如果可以的话，想和好朋友生活在一个城市里
     · 希望能开心健康的度过每一天😄
 
-  <div align="center"><p>
 
-
-</p></div>
 
 ### 🚩统计信息
+<div align="center">💙</div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaaaosiu&show_icons=true&theme=tokyonight" /> </div>
-
+<div align="center">💚</div>
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaaaosiu" /> </div>
 
 -------------------------------------------------------------------------------------------------------------
