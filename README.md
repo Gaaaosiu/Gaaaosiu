@@ -8,10 +8,11 @@
     ·  👋  Gaaaosiu
     ·  🏢  中国海洋大学
     ·  🌱  2021级计算机科学与技术
-    ·  💞  理智追星🌟 、品尝美食🥧 、看演出🎸 
-    
     ·  📫  peterpan_0530@163.com
-<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="200" height="200" "/><br/><img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/2.jpg" width="200" height="200" "/><br/><img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/3.jpg" width="200" height="200" "/><br/>
+    ·  💞  理智追星🌟                          品尝美食🥧                        看演出🎸 
+
+<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/2.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/3.jpg" width="240px">
+
 
 <div align="center"> 
 <p>
