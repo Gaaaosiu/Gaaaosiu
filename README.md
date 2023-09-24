@@ -11,7 +11,8 @@
     ·  💞  理智追星🌟 、品尝美食🥧 、看演出🎸 
     
     ·  📫  peterpan_0530@163.com
-![image](https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg)
+<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="200" height="200" alt="抖音小程序"/><br/>
+
 <div align="center"> 
 <p>
   <a href="https://blog.csdn.net/m0_62135967?spm=1010.2135.3001.5343"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
