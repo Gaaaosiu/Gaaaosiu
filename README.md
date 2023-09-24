@@ -11,7 +11,7 @@
     ·  💞  理智追星🌟 、品尝美食🥧 、看演出🎸 
     
     ·  📫  peterpan_0530@163.com
-<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="200" height="200" alt="抖音小程序"/><br/>
+<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="200" height="200" "/><br/><img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/2.jpg" width="200" height="200" "/><br/><img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/3.jpg" width="200" height="200" "/><br/>
 
 <div align="center"> 
 <p>
