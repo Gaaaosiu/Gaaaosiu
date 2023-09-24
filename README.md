@@ -3,7 +3,7 @@
 </h1>
 
 
-### 🙋自我介绍
+## 🙋自我介绍
 
     ·  👋  Gaaaosiu
     ·  🏢  中国海洋大学
@@ -11,7 +11,7 @@
     ·  📫  peterpan_0530@163.com
     ·  💞  理智追星🌟                          品尝美食🥧                        看演出🎸 
 
-<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/2.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/3.jpg" width="240px">
+<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/1.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/2.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/3.jpg" width="240px">&nbsp;&nbsp;<img src="https://github.com/Gaaaosiu/Gaaaosiu/blob/main/4.jpg" width="240px">
 
 
 <div align="center"> 
@@ -22,13 +22,13 @@
 </p>
 </div>
     
-### 📝 相关经验
+## 📝 相关经验
 
-     · 在校期间获得综合二等奖学金、优秀学生干部、优秀学生等
-     · 在专业能力上还有待提高，希望以后可以多学习专业相关的知识🙇‍♀️
+    · 在校期间获得综合二等奖学金、优秀学生干部、优秀学生等
+    · 在专业能力上还有待提高，希望以后可以多学习专业相关的知识🙇‍♀️
      
     
-### 🌞 对未来的期望
+## 🌞 对未来的期望
 
     · 继续读研📙
     · 对以后还没有具体的规划，没有想好要干什么，但希望从事与计算机相关的工作💻
@@ -37,7 +37,7 @@
 
 
 
-### 🚩统计信息
+## 🚩统计信息
 <div align="center">💙</div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaaaosiu&show_icons=true&theme=tokyonight" /> </div>
 <div align="center">💚</div>
