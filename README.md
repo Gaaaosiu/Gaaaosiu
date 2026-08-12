@@ -25,7 +25,7 @@
 ## 📝 相关经验
 
     · 在校期间获得综合二等奖学金、优秀学生干部、优秀学生等
-    · 在专业能力上还有待提高，希望以后可以多学习专业相关的知识🙇‍♀️
+    · 在专业能力上还有待提高，希望以后可以多学习专业相关的知识
      
     
 ## 🌞 对未来的期望
@@ -39,12 +39,11 @@
 
 ## 🚩统计信息
 <div align="center">💙</div>
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Gaaaosiu&show_icons=true&theme=tokyonight" /> </div>
 <div align="center">💚</div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaaaosiu" /> </div>
+
 
 -------------------------------------------------------------------------------------------------------------
 <div align="center"> 💖💖💖 </div>
-<div align="center"> <img src="https://profile-counter.glitch.me/Gaaaosiu/count.svg" /> </div>
+
 
 
